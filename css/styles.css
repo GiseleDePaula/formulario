@@ -59,7 +59,7 @@ legend {
 .inputUser:focus~.labelInput,
 .inputUser:valid~.labelInput {
     top: -20px;
-    font-size: 30px;
+    font-size: 15px;
     color: dodgerblue;
 }
 
